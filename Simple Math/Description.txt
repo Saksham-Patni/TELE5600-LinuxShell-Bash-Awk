@@ -1,0 +1,11 @@
+Write a simple script in bash called ‘math.sh’ that prompts the user to give two values for variables ‘number1’ and ‘number2’ 
+Your output should return two values which gives the addition and multiplication result of these two numbers.
+=========================================
+Ex:
+$./math.sh
+Enter the first number:
+5
+Enter the second number:
+10
+The result of addition is: 15
+The result of multiplication is: 50
