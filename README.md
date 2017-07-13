@@ -1,2 +1,3 @@
-# Linux---Shell-Bash
-Linux Projects
+# Linux
+====================
+Shell/Bash Projects
