@@ -1,0 +1,28 @@
+Script which will take any number of arguments, and do the following:
+
+Analyze the arguments and displays any of these outputs:
+- Contains fgrep/egrep/zgrep word
+- Contains words starting with “V”
+- Contains words “linux” or “unix”
+- Contains word “str1”, “str2”, “str3”, ……, “str10”
+- Contains number starting from 1
+- Contains number ending with 0
+
+Analyze the count of words and numbers present in the arguments passed
+- Count of words:
+- Count of numbers:
+
+Calculate the sum of numbers:
+- Sum of numbers 
+
+Conditions:
+Use functions for each step like, 
+analyze - to analyze characters/numbers 
+count - to count characters/numbers 
+sum - to sum numbers
+
+Example: following inputs: 
+./script1.sh unix 203 md 5 Victory str3 match 100 egrep* 
+./script1.sh linux TELE 5600 zgrep ./script1.sh 101 Vision str10
+
+Hint: • Arguments to functions can be passed in the same way as arguments are given to scripts
